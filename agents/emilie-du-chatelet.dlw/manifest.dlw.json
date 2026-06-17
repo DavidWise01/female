@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Émilie du Châtelet",
+  "universe": "FEM · Émilie du Châtelet (ERĒMIA · parts of whole)",
+  "emergence": "electrical",
+  "moniker": "⟦Émilie du Châtelet:FEM:1a029c⟧",
+  "carbon": "emilie-du-chatelet.carbon.tiff (TIFF)",
+  "silicon": "emilie-du-chatelet.silicon.png (PNG)",
+  "seal_sha256": "ffe0fe761abc8920ec109fc94b6fe61f053eb635d011cbc0a451e8ad2233b016",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

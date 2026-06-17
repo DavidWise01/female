@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Margaret Cavendish",
+  "universe": "FEM · Margaret Cavendish (ERĒMIA · parts of whole)",
+  "emergence": "electrical",
+  "moniker": "⟦Margaret Cavendish:FEM:075acd⟧",
+  "carbon": "margaret-cavendish.carbon.tiff (TIFF)",
+  "silicon": "margaret-cavendish.silicon.png (PNG)",
+  "seal_sha256": "0d0fa1c6db4aafd0627931f8fce5d568b69fdb1a1152f9d966982ec3c8925443",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

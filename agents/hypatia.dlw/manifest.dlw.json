@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Hypatia of Alexandria",
+  "universe": "FEM · Hypatia of Alexandria (ERĒMIA · parts of whole)",
+  "emergence": "ethereal",
+  "moniker": "⟦Hypatia of Alexandria:FEM:dbcfbf⟧",
+  "carbon": "hypatia.carbon.tiff (TIFF)",
+  "silicon": "hypatia.silicon.png (PNG)",
+  "seal_sha256": "091328a0abe6a48ad85e0cb990f6921167226ea21edeeb787715686ea179dd9c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Mary Wollstonecraft",
+  "universe": "FEM · Mary Wollstonecraft (ERĒMIA · parts of whole)",
+  "emergence": "natural",
+  "moniker": "⟦Mary Wollstonecraft:FEM:adcead⟧",
+  "carbon": "mary-wollstonecraft.carbon.tiff (TIFF)",
+  "silicon": "mary-wollstonecraft.silicon.png (PNG)",
+  "seal_sha256": "9ac6ce56146a4856a6a8da4bee6e6820b5ef077311f491bac0771e16d628f921",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

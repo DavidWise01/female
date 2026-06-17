@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "FEMALE",
+  "universe": "FEM · FEMALE (ERĒMIA · parts of whole)",
+  "emergence": "",
+  "moniker": "⟦FEMALE:FEM:dd676b⟧",
+  "carbon": "female.carbon.tiff (TIFF)",
+  "silicon": "female.silicon.png (PNG)",
+  "seal_sha256": "89011f611dcb3adea04d723681e8d037e4c4206a567f4f0d79b93b278066b6d5",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

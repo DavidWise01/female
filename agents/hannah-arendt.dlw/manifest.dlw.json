@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Hannah Arendt",
+  "universe": "FEM · Hannah Arendt (ERĒMIA · parts of whole)",
+  "emergence": "electrical",
+  "moniker": "⟦Hannah Arendt:FEM:0243ce⟧",
+  "carbon": "hannah-arendt.carbon.tiff (TIFF)",
+  "silicon": "hannah-arendt.silicon.png (PNG)",
+  "seal_sha256": "4a8d9cda9c4a320a386a7dd3d319214216dbde7705165289d42972108eb55372",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

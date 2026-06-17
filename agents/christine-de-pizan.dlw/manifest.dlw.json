@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Christine de Pizan",
+  "universe": "FEM · Christine de Pizan (ERĒMIA · parts of whole)",
+  "emergence": "natural",
+  "moniker": "⟦Christine de Pizan:FEM:8ddbf4⟧",
+  "carbon": "christine-de-pizan.carbon.tiff (TIFF)",
+  "silicon": "christine-de-pizan.silicon.png (PNG)",
+  "seal_sha256": "a60dce24c7bdf4b1f526c2aa83a3b084663274af20bedd5eb351b793ff2e7dc6",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

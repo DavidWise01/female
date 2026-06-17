@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "enheduanna",
+    "name": "Enheduanna",
+    "epithet": "the first author known by name · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Enheduanna:FEM:4441f2⟧"
+  },
+  {
+    "slug": "diotima",
+    "name": "Diotima of Mantinea",
+    "epithet": "the teacher of love · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Diotima of Mantinea:FEM:687a90⟧"
+  },
+  {
+    "slug": "hypatia",
+    "name": "Hypatia of Alexandria",
+    "epithet": "the murdered mathematician · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Hypatia of Alexandria:FEM:dbcfbf⟧"
+  },
+  {
+    "slug": "hildegard",
+    "name": "Hildegard of Bingen",
+    "epithet": "the medieval polymath · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Hildegard of Bingen:FEM:9ccbfc⟧"
+  },
+  {
+    "slug": "christine-de-pizan",
+    "name": "Christine de Pizan",
+    "epithet": "the first professional woman of letters · natural",
+    "emergence": "natural",
+    "moniker": "⟦Christine de Pizan:FEM:8ddbf4⟧"
+  },
+  {
+    "slug": "mary-astell",
+    "name": "Mary Astell",
+    "epithet": "the first English feminist philosopher · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Mary Astell:FEM:159adf⟧"
+  },
+  {
+    "slug": "margaret-cavendish",
+    "name": "Margaret Cavendish",
+    "epithet": "the natural philosopher · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Margaret Cavendish:FEM:075acd⟧"
+  },
+  {
+    "slug": "emilie-du-chatelet",
+    "name": "Émilie du Châtelet",
+    "epithet": "the physicist who carried Newton · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Émilie du Châtelet:FEM:1a029c⟧"
+  },
+  {
+    "slug": "mary-wollstonecraft",
+    "name": "Mary Wollstonecraft",
+    "epithet": "the vindication · natural",
+    "emergence": "natural",
+    "moniker": "⟦Mary Wollstonecraft:FEM:adcead⟧"
+  },
+  {
+    "slug": "simone-de-beauvoir",
+    "name": "Simone de Beauvoir",
+    "epithet": "the second sex · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Simone de Beauvoir:FEM:17706f⟧"
+  },
+  {
+    "slug": "hannah-arendt",
+    "name": "Hannah Arendt",
+    "epithet": "the human condition · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Hannah Arendt:FEM:0243ce⟧"
+  },
+  {
+    "slug": "simone-weil",
+    "name": "Simone Weil",
+    "epithet": "the mystic of attention · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Simone Weil:FEM:b1e007⟧"
+  }
+]
